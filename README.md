@@ -1,2 +1,20 @@
-# dino-in-my-hands
-This project adapts Google's Dinosaur Game with Gesture Recognition, enabling players to control the dinosaur's actions via hand movements. It employs TensorFlow and OpenCV for gesture recognition and Python for scripting. This fusion of gaming and technology enhances user engagement, showcasing the innovation achievable through computer vision.
+# <i>dino-in-my-hands</i>
+  Hand gesture recognition is booming, offering innovative applications in gaming, VR, and accessibility. By translating hand movements into digital commands, it enables more 
+  intuitive and immersive user experiences. In this project, OpenCV is used to play the Dino game with different hand gestures, showing just how fun and innovative this 
+  technology can be.
+  ## Gestures 🦖
+  - #### Open your fist to jump 🖐🏻 🏃🏻‍♂️
+  - #### Clench your fist to stop ✊🏻
+    
+  ## How to play:-
+  ### Method 1
+  - Clone the repo.
+  - Open the dino game in chrome.
+  - Run the game.py program.
+
+  ### Method 2
+  - download the game.py program from github and run that locally.
+
+
+## Enjoy !!
+  
