@@ -12,7 +12,7 @@ hands = mpHands.Hands(max_num_hands=1, min_detection_confidence=0.7)
 mpDraw = mp.solutions.drawing_utils
  
 # Load the gesture recognizer model
-#model = load_model(r'C:\Users\Aarush Raj\OneDrive\Desktop\handgesture\gesturecontrol\mp_hand_gesture')
+
 path_to_mp_hand_gesture= 0 #add path instead of 0
 model = keras.layers.TFSMLayer(path_to_mp_hand_gesture, call_endpoint='serving_default')
 # Load class names
